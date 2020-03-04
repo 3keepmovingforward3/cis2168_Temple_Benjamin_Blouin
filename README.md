@@ -1,2 +1,2 @@
 # cis2168_Temple_Benjamin_Blouin
-Programs from Fall19 Semester
+Introduction to problem solving and programming in Java, software engineering, procedural and data abstraction, and object-oriented programming, including class hierarchies, inheritance and interfaces. Data types covered include primitive data types, strings, classes, arrays, vectors, and streams. Programming techniques include at least one technique for searching and sorting an array and an introduction to file processing. Note: For Computer Science Majors and IST Majors.
